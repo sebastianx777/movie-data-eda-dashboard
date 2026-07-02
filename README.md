@@ -1,10 +1,10 @@
-# Netflix Movie Analytics — Dataset Exploratory Data Analysis
+# Movie user rating analysis — Dataset Exploratory Data Analysis
 
 Exploratory data analysis and cleaning of a ~9,800-movie TMDB dataset,
 covering data quality handling, deduplication logic, and trend analysis.
 
 ## Tools
-Python (pandas), Jupyter — with a Power BI dashboard layer [in progress].
+Python (pandas), Jupyter, power query — with a Power BI dashboard layer.
 
 ## What's here
 - `movie_eda.ipynb` — cleaning + exploratory analysis
@@ -19,5 +19,13 @@ Python (pandas), Jupyter — with a Power BI dashboard layer [in progress].
   duplicate records — all retained.
 - **Types:** converted Release_Date from text to datetime to enable time-based analysis.
 
+## Stakeholder Questions
+
+- Which genres deliver the best combination of audience volume *and* quality, rather than just popularity?
+- Is Drama's dominance in total votes a durable trend, or inflated by decades of accumulated back-catalog volume?
+- What's driving the falloff in vote volume after ~2020 — a real engagement decline, or recent titles simply not having had time to accumulate votes yet?
+
 ## Findings
-WIP
+
+
+
