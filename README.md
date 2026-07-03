@@ -1,4 +1,4 @@
-# Movie user rating analysis — Dataset Exploratory Data Analysis
+# Movie user rating analysis — Dataset visualization and recommendations
 
 ## Table of Contents
 - [Tools](#tools)
