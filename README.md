@@ -43,7 +43,7 @@ power query — with a Power BI dashboard layer.
 
 <img width="1957" height="1108" alt="image" src="https://github.com/user-attachments/assets/af471329-a2f2-4c37-af2b-d5e33fb1c917" />
 
--To test whether Drama's dominance is durable, we compared genre popularity across two non-overlapping periods. In 1970–1999, Drama averaged a 22 popularity rating across 752 movies. In 2000–2021, that rose to 28 across 2,000 movies — but Action also grew significantly in this period, reaching [4M entries / 5M entries]. [Drama still leads Action by X points, suggesting its dominance does not hold in the modern era. / Action has closed the gap, suggesting Drama's historical lead is narrowing rather than durable.]
+-To test whether Drama's dominance is durable, we compared genre popularity across two non-overlapping periods. In 1970–1999, Drama averaged a 22 popularity rating across 752 movies. In 2000–2021, that rose to 28 across 2,000 movies — but Action also grew significantly in this period, reaching [4M entries / 5M entries]. [ [Action has closed the gap, suggesting Drama's historical lead is narrowing rather than durable.]
 
 -Votes have not been recorded for this time range.
 
