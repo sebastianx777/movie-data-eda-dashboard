@@ -31,10 +31,11 @@ power query — with a Power BI dashboard layer.
 
 - Which genres deliver the best combination of audience volume *and* quality, rather than just popularity?
 - Is Drama's dominance in total votes a durable trend, or inflated by decades of accumulated back-catalog volume?
-- What's driving the falloff in vote volume after ~2020 — a real engagement decline, or recent titles simply not having had time to accumulate votes yet?
+- Are non-English films underrepresented relative to their quality — is there an untapped audience being missed by an English-heavy content slate?
 
 ## Findings
 <img width="1302" height="383" alt="image" src="https://github.com/user-attachments/assets/13fc7057-8cfa-448b-83a4-bdfd2f5ce545" />
+
 <img width="1388" height="128" alt="image" src="https://github.com/user-attachments/assets/4da02c17-a3ff-423d-a6fa-d8f7bf9920fc" />
 
 - Adventure delivers the strongest combination of audience volume and quality. The genre has 4.3M total votes — among the highest of any genre — paired with a [53.3] average rating, [outperforming/matching] genres with comparable volume. Its top titles (Inception, Interstellar, The Avengers, Deadpool, Avatar) are all recognizable blockbusters, reinforcing that Adventure isn't just heavily watched — it's consistently well-received at scale.
@@ -45,7 +46,11 @@ power query — with a Power BI dashboard layer.
 
 -To test whether Drama's dominance is durable, we compared genre popularity across two non-overlapping periods. In 1970–1999, Drama averaged a 22 popularity rating across 752 movies. In 2000–2021, that rose to 28 across 2,000 movies — but Action also grew significantly in this period, reaching [4M entries / 5M entries]. [ [Action has closed the gap, suggesting Drama's historical lead is narrowing rather than durable.]
 
--Votes have not been recorded for this time range.
+<img width="1939" height="1091" alt="image" src="https://github.com/user-attachments/assets/32373ef4-7ce3-433f-8a4d-2e02ead3d172" />
+
+<img width="1954" height="1142" alt="image" src="https://github.com/user-attachments/assets/da6f78c0-1e9e-493d-a9c3-f5a70a3a725a" />
+
+- Japan is the second-largest market by film volume in this dataset, behind English-language releases. Over the last two decades (2004–2024), animation performs comparably well across both markets — Japan (45.13 popularity, 1.17M votes) and English-language releases (45.09 popularity, 1.05M votes) are nearly identical on quality, with Japan holding a modest edge in raw volume. This is notable because English-language animation is dominated by a handful of major studios (e.g., Disney), yet Japan's more fragmented studio landscape matches that performance despite being the smaller of the two markets.
 
 ## Recommendations 
 
