@@ -56,7 +56,7 @@ power query — with a Power BI dashboard layer.
 
 - **Genre investment:** If a studio had to greenlight one genre for a high-budget slate, Adventure is the safer bet — it delivers both scale and audience satisfaction, not just one or the other.
 - **Long-term genre strategy:** If Action's growth trajectory continues to close the gap on Drama, a studio betting long-term on Drama as the "safe genre" should watch Action closely — the historically dominant genre may not stay dominant, and a content strategy built on yesterday's numbers could miss the shift.
-- **Reading recent trends correctly:** Before treating the post-2020 dip as a sign of declining engagement, a team needs to separate "the audience is disengaging" from "the data hasn't caught up yet" — acting on trailing metrics too early can trigger the wrong response to a problem that doesn't actually exist.
+- **Content and studio-partnership strategy shouldn't assume that scale or consolidation is required for animation quality — Japan's fragmented studio landscape matches a Disney-dominated market on audience reception. Before investing in further studio consolidation or acquisition in the English-language animation space, it's worth investigating which Japanese studios are driving this performance (a few standouts vs. broadly distributed quality) — that answer determines whether the actual opportunity is partnering with specific high-performing studios, or whether quality here is more structural (genre, format, or audience fit) than studio-dependent at all. By partnering with animation studios from different regions, you can aquire a new audience that are familiar with that respective regions studio releases.
 
 
 
