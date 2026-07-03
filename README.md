@@ -38,3 +38,9 @@ power query — with a Power BI dashboard layer.
 -To test whether Drama's dominance is durable, we compared genre popularity across two non-overlapping periods. In 1970–1999, Drama averaged a 22 popularity rating across 752 movies. In 2000–2021, that rose to 28 across 2,000 movies — but Action also grew significantly in this period, reaching [4M entries / 5M entries]. [Drama still leads Action by X points, suggesting its dominance does not hold in the modern era. / Action has closed the gap, suggesting Drama's historical lead is narrowing rather than durable.]
 
 -Votes have not been recorded for this time range.
+
+## Recommendations 
+
+- **Genre investment:** If a studio had to greenlight one genre for a high-budget slate, Adventure is the safer bet — it delivers both scale and audience satisfaction, not just one or the other.
+- **Long-term genre strategy:** If Action's growth trajectory continues to close the gap on Drama, a studio betting long-term on Drama as the "safe genre" should watch Action closely — the historically dominant genre may not stay dominant, and a content strategy built on yesterday's numbers could miss the shift.
+- **Reading recent trends correctly:** Before treating the post-2020 dip as a sign of declining engagement, a team needs to separate "the audience is disengaging" from "the data hasn't caught up yet" — acting on trailing metrics too early can trigger the wrong response to a problem that doesn't actually exist.
