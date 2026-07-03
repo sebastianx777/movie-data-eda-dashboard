@@ -15,7 +15,7 @@ covering data quality handling, deduplication logic, and trend analysis.
 power query — with a Power BI dashboard layer.
 
 ## What's here
-- `movie_eda.ipynb` — cleaning + exploratory analysis
+- `PowerBI file` — cleaning via power query, and live dashboard
 - `mymoviedb.csv` — source data (public TMDB export)
 
 ## Key decisions
