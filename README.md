@@ -4,7 +4,7 @@ Exploratory data analysis and cleaning of a ~9,800-movie TMDB dataset,
 covering data quality handling, deduplication logic, and trend analysis.
 
 ## Tools
-Python (pandas), Jupyter, power query — with a Power BI dashboard layer.
+power query — with a Power BI dashboard layer.
 
 ## What's here
 - `movie_eda.ipynb` — cleaning + exploratory analysis
