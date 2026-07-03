@@ -50,7 +50,7 @@ power query — with a Power BI dashboard layer.
 
 <img width="1954" height="1142" alt="image" src="https://github.com/user-attachments/assets/da6f78c0-1e9e-493d-a9c3-f5a70a3a725a" />
 
-- Japan is the second-largest market by film volume in this dataset, behind English-language releases. Over the last two decades (2004–2024), animation performs comparably well across both markets — Japan (45.13 popularity, 117k votes) and English-language releases (45.09 popularity, 1.05M votes) are nearly identical on quality, with English holding a modest edge in raw volume. This is notable because English-language animation is dominated by a handful of major studios (e.g., Disney), yet Japan's more fragmented studio landscape matches that performance despite being the smaller of the two markets.
+- Japan is the second-largest market by film volume in this dataset, behind English-language releases. Over the last two decades (2000–2024), animation performs comparably well across both markets — Japan (45.13 popularity, 117k votes) and English-language releases (45.09 popularity, 1.05M votes) are nearly identical on quality, with English holding a modest edge in raw volume. This is notable because English-language animation is dominated by a handful of major studios (e.g., Disney), yet Japan's more fragmented studio landscape matches that performance despite being the smaller of the two markets.
 
 ## Recommendations 
 
